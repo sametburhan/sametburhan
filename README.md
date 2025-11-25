@@ -34,9 +34,17 @@ I'm very curious about tech and open source.
 
 <br/>
 
-<h3>🔥 GitHub Streak Stats</h3>
-![sametburhan github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=sametburhan)
+```
+Tree = Curiosity
+Fire = Passion
+Earth = Patience and persistence
+Gold = Achievements
+Water = Wisdom and insights
+People = Average of 5 elements (Water and gold are more weighted)
+```
 
+<h3>🔥 GitHub Stats</h3>
+<a href="https://stats.hyo.dev"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=sametburhan" width="600" /></a>
 
 <br/>
 
