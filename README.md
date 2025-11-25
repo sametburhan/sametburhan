@@ -11,6 +11,8 @@
 <br/>
 <br/>
 
+👋 Hi, I'm Samet Burhan
+
 I'm very curious about tech and open source.
 
 🌍 **Based in Turkiye** | 🖥️ [**Portfolio Website**](https://sametburhan.github.io/) | ✉️ [**Email Me**](mailto:samet26burhan2@gmail.com)
