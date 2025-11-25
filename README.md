@@ -30,7 +30,7 @@ I'm very curious about tech and open source.
 
 <br/>
 
-<h3>🧩 My GitHub Contribution City</h3>
+<h3>🔥 GitHub Streak Stats</h3>
 <img src="https://streak-stats.demolab.com?user=sametburhan&theme=tokyonight" />
 
 
