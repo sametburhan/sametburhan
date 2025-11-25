@@ -35,7 +35,7 @@ I'm very curious about tech and open source.
 <br/>
 
 <h3>🔥 GitHub Streak Stats</h3>
-<img src="https://streak-stats.demolab.com?user=sametburhan&theme=tokyonight" />
+![sametburhan github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=sametburhan)
 
 
 <br/>
