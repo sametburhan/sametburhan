@@ -39,7 +39,11 @@ I'm very curious about tech and open source.
 <br/>
 
 <h3>🐍 Contribution Snake</h3>
-  <img src="https://raw.githubusercontent.com/sametburhan/snk/output/github-contribution-grid-snake.svg" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 <br/>
 <br/>
