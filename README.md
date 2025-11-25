@@ -40,8 +40,8 @@ I'm very curious about tech and open source.
 
 <h3>🐍 Contribution Snake</h3>
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sametburhan/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/sametburhan/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sametburhan/sametburhan/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/sametburhan/sametburhan/github-contribution-grid-snake.svg" />
 </picture>
 
 
