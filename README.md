@@ -30,19 +30,15 @@ I'm very curious about tech and open source.
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=sametburhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametburhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-</p>
+<h3>🧩 My GitHub Contribution City</h3>
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sametburhan&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Streak" />
-</p>
+<br/>
 
+<h3>🐍 Contribution Snake</h3>
+<img src="github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+<br/>
 <br/>
 
 ### 🛠 Tech Stack & Skills
