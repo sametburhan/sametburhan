@@ -3,12 +3,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Samet+Burhan;IoT+%26+Embedded+Software+Engineer;Rust+Learner+%26+Tech+Enthusiast" alt="Typing SVG" />
 
 <br/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=sametburhan&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="sametburhan trophies" />
-</a>
-
-<br/>
 <br/>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Samet Burhan
